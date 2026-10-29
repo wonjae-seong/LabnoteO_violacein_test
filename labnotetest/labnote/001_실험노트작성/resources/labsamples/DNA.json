@@ -1,0 +1,17 @@
+{
+  "DNA-1789363118034": {
+    "type": "DNA",
+    "alias": "움1",
+    "descriptions": [
+      "설명- (samples from the previous step)",
+      "설명"
+    ],
+    "sources": [
+      "002_WD060_Genetic_Circuit_Design.labnote.md"
+    ],
+    "location": null,
+    "descriptionSources": {
+      "002_WD060_Genetic_Circuit_Design.labnote.md": "설명- (samples from the previous step)"
+    }
+  }
+}

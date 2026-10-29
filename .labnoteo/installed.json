@@ -1,0 +1,22 @@
+{
+  "pluginVersion": "0.130.0",
+  "files": {
+    "QUICKSTART.md": "01515de77464d9",
+    ".labnoteo/scripts/check-large-files.mjs": "014ece66467978",
+    ".labnoteo/hooks/pre-commit": "05cbf3a410dad9",
+    ".labnoteo/SETUP.md": "0cd87011fe75fe",
+    ".gitignore": "123e1dab5a65e3",
+    ".labnoteo/scripts/validate.mjs": "1762d44e4ce83c",
+    ".github/workflows/validate.yml": "016be7d00be333",
+    ".labnoteo/scripts/issue-sync.mjs": "01626b8952b4bd",
+    ".github/workflows/experiment-issues.yml": "08afc1058ec722",
+    ".github/ISSUE_TEMPLATE/experiment.md": "03f7767ddfa08e",
+    "AGENTS.md": "022b365a45bfd7",
+    "CLAUDE.md": "1038e6bfddcf56",
+    ".github/workflows/wiki-sync.yml": "1bcbc509a355cc"
+  },
+  "blocks": {
+    "QUICKSTART.md": "01515de77464d9",
+    "AGENTS.md": "022b365a45bfd7"
+  }
+}

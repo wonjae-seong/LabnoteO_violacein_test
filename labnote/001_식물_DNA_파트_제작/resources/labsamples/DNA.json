@@ -1,0 +1,13 @@
+{
+  "DNA-1792993567331": {
+    "type": "DNA",
+    "alias": "식물체 유래 cDNA",
+    "descriptions": [
+      "식물체에서 추출한 cDNA"
+    ],
+    "sources": [
+      "001_WD070_Vector_Design_식물_벡터_디자인.labnote.md"
+    ],
+    "location": "냉장고 1"
+  }
+}
